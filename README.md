@@ -1,4 +1,6 @@
 # EKART
 EKART Static Website
- Login Page - Use For User Authentication
- Index Page - Product Details
+
+1) Login Page - Use For User Authentication
+ 
+2) Index Page - Product Details
